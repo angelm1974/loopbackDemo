@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Aktualnosci": 4
+  },
+  "models": {
+    "Aktualnosci": {
+      "1": "{\"tytul\":\"Drugi news\",\"dataWpisu\":\"2022-03-15T13:08:50.594Z\",\"tresc\":\"Premier na Ukrainie!!!\",\"autor\":\"John Doe\",\"id\":1}",
+      "2": "{\"tytul\":\"Testowy\",\"dataWpisu\":\"2022-03-15T13:48:32.050Z\",\"tresc\":\"Rosyjska gospodarka często była nazywana kolosem na glinianych nogach. Tymczasem w 2020 r. pod względem PKB była to 11. gospodarka świata. Państwo rosyjskie w największej mierze stoi na eksporcie surowców. Przed wojną i falą sankcji Rosja odpowiadała za 2 proc. światowego PKB. Od lat Władimir Putin stara się uniezależnić swój kraj od towarów z zagranicy.\",\"autor\":\"MM\",\"id\":2}",
+      "3": "{\"tytul\":\"Testowy\",\"dataWpisu\":\"2022-03-15T13:48:32.050Z\",\"tresc\":\"Rosyjska gospodarka często była nazywana kolosem na glinianych nogach. Tymczasem w 2020 r. pod względem PKB była to 11. gospodarka świata. Państwo rosyjskie w największej mierze stoi na eksporcie surowców. Przed wojną i falą sankcji Rosja odpowiadała za 2 proc. światowego PKB. Od lat Władimir Putin stara się uniezależnić swój kraj od towarów z zagranicy.\",\"autor\":\"MM\",\"id\":3}"
+    }
+  }
+}
